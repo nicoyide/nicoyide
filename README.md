@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer and Enthusiastic Life player
 ------------------------------------------------
 
-I'm a passionate Java Web Fullstack Developer with experience in Java, Vue, Typescript, Javscript, SQL, Linux, Git, Azure, GCP, Redis, Kafka, Grafana . I love tackling complex problems, trying new skills, and collaborating with diverse teams to create interesting solutions.
+I'm a passionate Java Web Fullstack Developer with experience in Java, Vue, Typescript, Javscript, jQuery, SQL, Linux, Git, Azure, GCP, Redis, Kafka, Grafana . I love tackling complex problems, trying new skills, and collaborating with diverse teams to create interesting solutions.
 
 * 🌍  I'm based in Taipei, Taiwan
-* 🖥️  See my portfolio at [Prueba](http://myPortafolioAunNoFulula.com)
-* ✉️  You can contact me at [nicoyide@example.com](mailto:nicoyide@example.com)
-* 🚀  I'm currently working on [TopSecretGovernBussiness](http://notReally.com)
-* 🧠  I'm currently learning some new languages like Elixir, Rust and Italian
+* 🖥️  See my portfolio at [Nico](https://ugs.my.canva.site/contactme)
+* ✉️  You can contact me at [myLikedin](https://www.linkedin.com/in/nicolas-l-153bb7286/)
+* 🚀  I'm currently working on [TopSecretBussiness](https://www.iisigroup.com/)
+* 🧠  I'm currently learning some new languages like Elixir, Pulumi and Italian
 * 👥  I'm looking to collaborate on Open Source Hacktoberfest
 * 💬  Ask me about I like to play Chess and listen music to relax
 
