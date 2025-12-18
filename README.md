@@ -8,10 +8,10 @@ I'm a passionate Java Web Fullstack Developer with experience in Java, Vue, Type
 
 * 🌍  I'm based in Taipei, Taiwan
 * 🖥️  See my portfolio at [Nico](https://ugs.my.canva.site/contactme)
-* ✉️  You can contact me at [myLikedin](https://www.linkedin.com/in/nicolas-l-153bb7286/)
+* ✉️  You can contact me at [myLikedin](https://www.linkedin.com/)
 * 🚀  I'm currently working on [TopSecretBussiness](https://www.iisigroup.com/)
-* 🧠  I'm currently learning some new languages like Elixir, Pulumi and Italian
-* 👥  I'm looking to collaborate on Open Source Hacktoberfest
+* 🧠  I'm currently learning some new languages like Elixir, Rust and Italian
+* 👥  I'm looking to collaborate on Open Source and volunteer IT meetup
 * 💬  Ask me about I like to play Chess and listen music to relax
 
 <p align="left">
