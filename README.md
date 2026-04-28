@@ -7,7 +7,7 @@ Fullstack Developer and Enthusiastic Life player
 I'm a passionate Java Web Fullstack Developer with experience in Java, Vue, Typescript, Javscript, jQuery, SQL, Linux, Git, Azure, GCP, Redis, Kafka, Grafana . I love tackling complex problems, trying new skills, and collaborating with diverse teams to create interesting solutions.
 
 * 🌍  I'm based in Taipei, Taiwan
-* 🖥️  See my portfolio at [Nico](https://ugs.my.canva.site/contactme)
+* 🖥️  See my portfolio at [Nico](https://nicoyide-portfolio.netlify.app/)
 * ✉️  You can contact me at [myLikedin](https://www.linkedin.com/in/nicolas-l-153bb7286/)
 * 🚀  I'm currently working on [TopSecretBussiness](https://www.iisigroup.com/)
 * 🧠  I'm currently learning some new languages like Elixir, Rust and Italian
