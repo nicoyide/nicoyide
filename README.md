@@ -8,7 +8,7 @@ I'm a passionate Java Web Fullstack Developer with experience in Java, Vue, Type
 
 * 🌍  I'm based in Taipei, Taiwan
 * 🖥️  See my portfolio at [Nico](https://nicoyide-portfolio.netlify.app/)
-* 🌐  Read my thoughts at [Nicolás Multilingual Blog](https://nicolas-multilingual-blog.netlify.app/)
+* 🌐  Read my thoughts at [Blog](https://nicolas-multilingual-blog.netlify.app/)
 * 🚀  I'm currently working on [TopSecretBussiness](https://www.iisigroup.com/)
 * 🧠  I'm currently learning some new languages like Elixir, Rust and Italian
 * 👥  I'm looking to collaborate on Open Source and volunteer IT meetup
